@@ -11,3 +11,4 @@ Este projeto é de uma série de aplicações que podem ser utilizadas para expa
 
 
 **Projeto idealizado por Bruno Santos, engenheiro químico, professor e programador.**
+*Aplicativo Android com ReactNative*
